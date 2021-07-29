@@ -1,0 +1,5 @@
+puts "I need to figure out how much I walk my dog"
+puts "I walk my dog for 30 mins on each walk"
+puts "I walk my dog 5 nights a week"
+puts "30 (mins) multiplied by 5 (nights a week): Which is #{30 * 5} minutes"
+puts "Now to figure that in hours: Which is #{150.00 / 60.00} hours"
